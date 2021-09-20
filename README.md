@@ -74,6 +74,13 @@ available here:
    - [video (tutorial 17/09/2018)](https://youtu.be/VvPtJyy8v2I)
 
 
+## 02 - Logistic Regression
+
+* [pdf slides](/handouts/handout-02-logistic-regression.pdf)
+* [video part 1 (lecture 04/10/2017)](https://youtu.be/Ab-IqBhbCJc)
+* part 2 video missing due to technical issues in the cross-land theatre.
+* [pdf tutorial on logistic regression](/handouts/tutorial-02-logistic-regression.pdf) ([solutions](/handouts/tutorial-02-logistic-regression-solutions.pdf))
+
 
 
 
