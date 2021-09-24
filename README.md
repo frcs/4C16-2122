@@ -82,5 +82,10 @@ available here:
 * [pdf tutorial on logistic regression](/handouts/tutorial-02-logistic-regression.pdf) ([solutions](/handouts/tutorial-02-logistic-regression-solutions.pdf))
 
 
+## 03 - Classic Classifiers
+
+* [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
+* [video (lecture 09/10/2017)](https://youtu.be/Liv6XrvM5A4)
+* part 2 missing (see Teams for this year's recording)
 
 
