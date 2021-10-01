@@ -89,3 +89,15 @@ available here:
 * part 2 missing (see Teams for this year's recording)
 
 
+## 04 - Comparing Classifiers
+
+* [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
+* [video (lecture 26/09/2018)](https://youtu.be/mH35PPUSmVE)
+* [pdf tutorial](/handouts/tutorial-04-classifiers-evaluation.pdf) ([solutions](/handouts/tutorial-04-classifiers-evaluation-solutions.pdf))
+
+## 05 - FeedForward Neural Networks
+
+* [pdf slides](/handouts/handout-05-deep-feedforward-networks.pdf)
+* [video part 1 (lecture 01/10/2018)](https://youtu.be/mzhRzlhrZf4)
+* [video part 2 (lecture 03/10/2018)](https://youtu.be/MtR7Te39DMw)
+* no video for lecture part 3
