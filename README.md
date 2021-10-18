@@ -101,3 +101,10 @@ available here:
 * [video part 1 (lecture 01/10/2018)](https://youtu.be/mzhRzlhrZf4)
 * [video part 2 (lecture 03/10/2018)](https://youtu.be/MtR7Te39DMw)
 * no video for lecture part 3
+
+
+## 06 - Convolutional Neural Networks
+* [pdf slides](/handouts/handout-06-convolutional-neural-networks.pdf)
+* [video (lecture 08/10/2018) - CNN](https://youtu.be/nbcpeb6mpfk)
+* [video (lecture 17/10/2018) - visualisation pt1](https://youtu.be/UGEeAKUyQXY)
+* [video (lecture 18/10/2018) - visualisation pt2](https://youtu.be/zfipnfjZoLo)
