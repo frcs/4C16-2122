@@ -101,6 +101,7 @@ available here:
 * [video part 1 (lecture 01/10/2018)](https://youtu.be/mzhRzlhrZf4)
 * [video part 2 (lecture 03/10/2018)](https://youtu.be/MtR7Te39DMw)
 * no video for lecture part 3
+<<<<<<< HEAD
 
 
 ## 06 - Convolutional Neural Networks
