@@ -107,3 +107,8 @@ available here:
 * [video (lecture 08/10/2018) - CNN](https://youtu.be/nbcpeb6mpfk)
 * [video (lecture 17/10/2018) - visualisation pt1](https://youtu.be/UGEeAKUyQXY)
 * [video (lecture 18/10/2018) - visualisation pt2](https://youtu.be/zfipnfjZoLo)
+
+## 07 - Advances in Network Architectures
+* [pdf slides](/handouts/handout-07-advances-in-network-architectures.pdf)
+* [video (lecture 18/10/2018)](https://youtu.be/yy8nYn1zvco)
+* [video (lecture 31/10/2018)](https://youtu.be/7He_f1IvDvs)
