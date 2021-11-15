@@ -114,7 +114,7 @@ available here:
 * [video (lecture 31/10/2018)](https://youtu.be/7He_f1IvDvs)
 
 ## 08 - Advances in Network Architectures
-* [pdf slides](/handouts/handout-09-recurrent-neural-networks.pdf)
+* [pdf slides](/handouts/handout-08-recurrent-neural-networks.pdf)
 * [video (lecture 12/11/2018)](https://youtu.be/GzqLp4d8ME8)
 * [video (lecture 14/11/2018)](https://youtu.be/IssSeVi5kw8)
 
