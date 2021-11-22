@@ -118,3 +118,7 @@ available here:
 * [video (lecture 12/11/2018)](https://youtu.be/GzqLp4d8ME8)
 * [video (lecture 14/11/2018)](https://youtu.be/IssSeVi5kw8)
 
+
+## 10 - Auto-Encoders
+* [pdf slides](/handouts/handout-10-autoencoders.pdf)
+
